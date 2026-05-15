@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+xarray
+netCDF4
+numpy
+pandas
+scipy
+asyncpg
+SQLAlchemy
+GeoAlchemy2
+redis
+pydantic
+pydantic-settings

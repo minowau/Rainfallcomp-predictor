@@ -1,0 +1,12 @@
+[
+  { "name": "India (Neutral)", "lat": 20.5937, "lon": 78.9629, "radius": 1200, "value": 0 },
+  { "name": "East Africa", "lat": 0.0236, "lon": 37.9062, "radius": 800, "value": -0.75 },
+  { "name": "South America", "lat": -14.235, "lon": -51.9253, "radius": 900, "value": -0.6 },
+  { "name": "Southeast Asia", "lat": 15.87, "lon": 100.9925, "radius": 700, "value": 0.85 },
+  { "name": "Northern Australia", "lat": -19.4914, "lon": 132.551, "radius": 1200, "value": -0.8 },
+  { "name": "Central USA", "lat": 39.8283, "lon": -98.5795, "radius": 1000, "value": 0.45 },
+  { "name": "Western Europe", "lat": 48.8566, "lon": 2.3522, "radius": 600, "value": -0.2 },
+  { "name": "South Africa", "lat": -30.5595, "lon": 22.9375, "radius": 800, "value": 0.3 },
+  { "name": "Japan", "lat": 36.2048, "lon": 138.2529, "radius": 500, "value": -0.9 },
+  { "name": "Brazil Rainforest", "lat": -3.4653, "lon": -62.2159, "radius": 1500, "value": 0.95 }
+]
