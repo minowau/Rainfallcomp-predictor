@@ -1,4 +1,4 @@
-# 🌧️ Rainfall Complimentary Engine
+# Rainfall Complimentary Engine
 
 > **A High-Performance Spatio-Temporal Analysis Platform for Global Precipitation Patterns.**
 
@@ -6,7 +6,7 @@ The **Rainfall Complimentary Engine** is a state-of-the-art analytical system de
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Vectorized Correlation Engine**: High-performance NumPy-based Pearson correlation computation across global grid points.
 - **Spatio-Temporal Intelligence**: Optimized storage using **PostGIS** for spatial geometries and **TimescaleDB** for time-series data.
@@ -15,7 +15,7 @@ The **Rainfall Complimentary Engine** is a state-of-the-art analytical system de
 
 ---
 
-## 📊 The "Points" Architecture
+## The "Points" Architecture
 
 The system is built upon a massive dataset of spatio-temporal observations:
 
@@ -43,7 +43,7 @@ Unlike static databases, our **Fluid Data Layer** treats climate indices (ONI, D
 
 ---
 
-## 🏃 Getting Started
+##  Getting Started
 
 ### 1. Data Engine Setup
 ```powershell
